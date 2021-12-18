@@ -1,2 +1,2 @@
-FROM quay.io/prometheus/prometheus:v2.20.0
+FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.1.1
 MAINTAINER mickjoust <mickjoust@gmail.com>
