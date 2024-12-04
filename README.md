@@ -1,7 +1,8 @@
 # docker-image-wrapper
-这个库用于拉取 k8s 在国内无法拉取的部分镜像库。
+1. 这个库用于拉取 k8s 在国内无法拉取的部分镜像库。
+2. 用于备份正在使用的docker镜像。
 
-### 2024-12-04 新增
+## 2024-12-04：新增
 - grafana:8.5.3
 - sonarqube:9.3.0-community
 - sonarqube:9.9.0-community
@@ -12,7 +13,7 @@
 - graylog:4.3.6
 - postgres:17.2
 
-## 可以用组件
+## 可用组件
 - coredns
 - kube-prometheus
   - kube-state-metrics
