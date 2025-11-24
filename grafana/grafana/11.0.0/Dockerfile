@@ -1,2 +1,2 @@
-FROM prom/prometheus:v2.20.0
+FROM grafana/grafana:11.0.0
 MAINTAINER mickjoust <mickjoust@gmail.com>
