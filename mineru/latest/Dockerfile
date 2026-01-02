@@ -1,2 +1,2 @@
-FROM mineru/mineru-api:latest
+FROM mineru:latest
 MAINTAINER mickjoust <mickjoust@gmail.com>
