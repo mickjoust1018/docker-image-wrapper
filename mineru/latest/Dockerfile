@@ -1,2 +1,2 @@
-FROM mineru:latest
+FROM opendatalab/mineru:latest
 MAINTAINER mickjoust <mickjoust@gmail.com>
